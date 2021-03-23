@@ -1,4 +1,4 @@
 # Resume-Site
-This is my resume site, private.
+This is my resume site
 
 
